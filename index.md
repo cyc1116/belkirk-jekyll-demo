@@ -16,7 +16,8 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Chemistry and Material Sciences
+sub_heading: Chemistry and Material Sciences Department at University of Science and
+  Technology of China
 textline: |
   Belkirk College of Engineering
 
@@ -24,7 +25,7 @@ textline: |
 hero_button:
   text: Learn more
   href: "/about"
-show_news: true
+show_news: false
 show_staff: false
 menu:
   navigation:
