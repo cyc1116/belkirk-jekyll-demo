@@ -15,4 +15,4 @@ thumbnail: "/uploads/2020/07/21/shaojie-yuan.png"
 layout: person
 
 ---
-2020年6月毕业于郑州大学材料科学与工程学院，转化于2020年9月加入中国科学技术大学。我对能源材料的研究非常关注，并注重动手能力和研究实验。我喜欢跑步，健身，阅读和踢足球。
+Shaojie Yuan graduated from the School of Materials Science and Engineering of Zhengzhou University in June 2020, and will join the University of Science and Technology of China in September 2020. He is very interested in the research of energy materials and pay attention to hands-on ability and research experiments. He likes running, keeping fit, reading and playing soccer.
