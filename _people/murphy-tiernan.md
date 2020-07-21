@@ -4,11 +4,11 @@ date: '2017-11-14T10:47:11.000+00:00'
 role:
 - advisor
 - staff
-thumbnail: "/uploads/2017/11/14/andrew-robles-300868.jpg"
+thumbnail: ''
 sub_heading: Graduate Student
 email: 1772095717@qq.com
 linkedin: ''
 layout: person
 
 ---
-Wei Peng has been accomplished In Anhui University In July, 2020, majoring In New Energy Materials and Devices. And currently, his research focuses on studying perovskite under the supervision of professor Xu Jixian. Aside from all the science related activities, he enjoys playing badminton and basketball.
+韦鹏已于2020年7月在安徽大学完成学习，主修新能源材料和器件。结果，他的研究重点是在徐继贤教授的指导下研究钙钛矿。除所有与科学有关的活动之外，他还喜欢打羽毛球和篮球。
