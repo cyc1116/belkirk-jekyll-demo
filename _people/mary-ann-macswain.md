@@ -8,7 +8,7 @@ role:
 - staff
 - advisor
 slug: ''
-sub_heading: Graduate Student
+sub_heading: 1st graduate Student
 tags:
 - radssfdfdsfds fdfasdfd saffdssfd
 thumbnail: "/uploads/2020/07/21/shaojie-yuan.png"
