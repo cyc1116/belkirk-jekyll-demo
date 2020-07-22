@@ -5,7 +5,7 @@ role:
 - advisor
 - staff
 thumbnail: "/uploads/2020/07/22/wechatimg13.jpeg"
-sub_heading: Graduate Student
+sub_heading: 1st graduate Student
 email: 1772095717@qq.com
 linkedin: ''
 layout: person
