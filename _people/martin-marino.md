@@ -5,7 +5,7 @@ role:
 - advisor
 - board
 sub_heading: 1st graduate student
-thumbnail: "/uploads/2017/11/14/joseph-gonzalez-399972.jpg"
+thumbnail: "/uploads/2020/07/22/徐嘉航.png"
 email: martin@belkirkcollege.com
 linkedin: ''
 layout: person
