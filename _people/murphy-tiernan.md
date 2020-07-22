@@ -4,7 +4,7 @@ date: '2017-11-14T10:47:11.000+00:00'
 role:
 - advisor
 - staff
-thumbnail: ''
+thumbnail: "/uploads/2020/07/22/wechatimg13.jpeg"
 sub_heading: Graduate Student
 email: 1772095717@qq.com
 linkedin: ''
